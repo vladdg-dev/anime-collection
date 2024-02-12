@@ -8,15 +8,14 @@ Welcome to Anime Collection, a cutting-edge web application designed to curate a
 Explore the captivating world of anime with Anime Collection, a platform where users can discover, explore, and enjoy a vast collection of anime series. Leveraging the latest technologies, this project delivers a seamless and dynamic experience for anime enthusiasts to indulge their passion.
 Technologies Used 🚀
 
-    Next.js 14: Harness the power of Next.js for advanced server-side rendering, routing, and server actions.
-    Infinite Scroll: Implement infinite scrolling to effortlessly browse through a large collection of anime series.
-    Framer Motion: Incorporate Framer Motion animations for fluid and engaging user interactions.
+- Next.js 14: Harness the power of Next.js for advanced server-side rendering, routing, and server actions.
+- Infinite Scroll: Implement infinite scrolling to effortlessly browse through a large collection of anime series.
+- Framer Motion: Incorporate Framer Motion animations for fluid and engaging user interactions.
 
 ## Key Features Showcase
 
 Discover the core functionalities that make Anime Collection stand out:
 
-- Server-Side Rendering: Experience lightning-fast loading times and enhanced performance with server-side rendering powered by Next.js 14.
 - Server Actions: Interact with the server directly to perform actions such as fetching, updating, and deleting anime series, ensuring data integrity and security.
 - Infinite Scroll: Seamlessly browse through an extensive collection of anime series with infinite scrolling, providing a fluid and uninterrupted viewing experience.
 - Framer Motion Animations: Immerse yourself in captivating animations and transitions powered by Framer Motion, enhancing user interactions and visual appeal.
